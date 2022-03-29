@@ -283,7 +283,9 @@
           "/Pump Control/OPTO_SNUB_CENTER",
           "/Pump Control/OPTO_SRC",
           "/Pump Control/TRIAC_GATE",
-          "/Pump Control/TRIAC_SNUB_CENTER"
+          "/Pump Control/TRIAC_SNUB_CENTER",
+          "LINE LOW CURRENT",
+          "NEUT LOW CURRENT"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(115, 1, 0)",
