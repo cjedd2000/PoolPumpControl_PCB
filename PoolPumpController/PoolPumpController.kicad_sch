@@ -185,8 +185,8 @@
     (path "/e419d764-6450-4a19-bbc7-3a8af12017ac/d1fa419b-7235-4fd2-8793-52eef73f56f0"
       (reference "J4") (unit 1) (value "AMBIENT TEMPERATURE") (footprint "")
     )
-    (path "/e419d764-6450-4a19-bbc7-3a8af12017ac/ca604f9b-03b4-46b4-a650-69bd7b9a214a"
-      (reference "J5") (unit 1) (value "FLOW_SWITCH") (footprint "")
+    (path "/e419d764-6450-4a19-bbc7-3a8af12017ac/d39d9ad3-6870-48c8-88bf-774d92975ce9"
+      (reference "J5") (unit 1) (value "FLOW DETECT") (footprint "")
     )
     (path "/5734c599-c465-44c2-80dc-aee5a5f975ea/1c58c1e8-9342-4a42-a0c4-6892f2aa1ed0"
       (reference "L1") (unit 1) (value "4.7mH") (footprint "Inductor_THT:L_Radial_D8.7mm_P5.00mm_Fastron_07HCP")
@@ -262,9 +262,6 @@
     )
     (path "/e419d764-6450-4a19-bbc7-3a8af12017ac/c1c79402-8aec-4c39-abf4-8792b5f9e1e8"
       (reference "R13") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/e419d764-6450-4a19-bbc7-3a8af12017ac/df0a3d2e-955a-4bd7-9484-c0f041618f6e"
-      (reference "R14") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/e419d764-6450-4a19-bbc7-3a8af12017ac/f47fd80d-315b-4f1d-aaef-3159aa1d3d85"
       (reference "R15") (unit 1) (value "47") (footprint "Resistor_SMD:R_1206_3216Metric")
