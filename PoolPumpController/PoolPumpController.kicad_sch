@@ -179,6 +179,9 @@
     (path "/e419d764-6450-4a19-bbc7-3a8af12017ac/064c6fd9-310c-4548-aba2-07547236e524"
       (reference "F4") (unit 1) (value "PTC 50mA") (footprint "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
+    (path "/f969f80d-ce8a-46ba-8e34-3deb7681417d/1069f619-03da-4a64-8866-9dff3007f308"
+      (reference "J1") (unit 1) (value "PUMP OUTLET") (footprint "")
+    )
     (path "/e419d764-6450-4a19-bbc7-3a8af12017ac/f63ee507-473f-4aad-b9df-f181664633e1"
       (reference "J3") (unit 1) (value "WATER TEMPERATURE") (footprint "")
     )
