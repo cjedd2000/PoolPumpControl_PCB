@@ -204,13 +204,13 @@
       (reference "MOV2") (unit 1) (value "S14K350") (footprint "Varistor:RV_Disc_D15.5mm_W4.9mm_P7.5mm")
     )
     (path "/f969f80d-ce8a-46ba-8e34-3deb7681417d/e7d1b680-c12a-40f0-bc79-598b54d28aab"
-      (reference "NT1") (unit 1) (value "NetTie_2") (footprint "")
+      (reference "NT1") (unit 1) (value "NetTie_2") (footprint "NetTie:NetTie-2_SMD_Pad0.5mm")
     )
     (path "/f969f80d-ce8a-46ba-8e34-3deb7681417d/2fed9a86-4d21-43ae-815a-14a31209351b"
-      (reference "NT2") (unit 1) (value "NetTie_2") (footprint "")
+      (reference "NT2") (unit 1) (value "NetTie_2") (footprint "NetTie:NetTie-2_SMD_Pad0.5mm")
     )
     (path "/f969f80d-ce8a-46ba-8e34-3deb7681417d/5914ea5e-718f-4768-818a-95379a972217"
-      (reference "NT3") (unit 1) (value "NetTie_2") (footprint "")
+      (reference "NT3") (unit 1) (value "NetTie_2") (footprint "NetTie:NetTie-2_SMD_Pad0.5mm")
     )
     (path "/f969f80d-ce8a-46ba-8e34-3deb7681417d/70030c25-cc45-4393-ab98-b2638fd34a85"
       (reference "Q1") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -273,16 +273,16 @@
       (reference "R16") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/f969f80d-ce8a-46ba-8e34-3deb7681417d/980089cf-9f41-433b-8187-7108fbf8399d"
-      (reference "S1") (unit 1) (value "LOAD LINE") (footprint "")
+      (reference "S1") (unit 1) (value "LOAD LINE") (footprint "TestPoint:TestPoint_Plated_Hole_D3.0mm")
     )
     (path "/f969f80d-ce8a-46ba-8e34-3deb7681417d/db0ff187-4007-4795-acc6-7fe02cc06022"
-      (reference "S2") (unit 1) (value "INPUT LINE") (footprint "")
+      (reference "S2") (unit 1) (value "INPUT LINE") (footprint "TestPoint:TestPoint_Plated_Hole_D3.0mm")
     )
     (path "/f969f80d-ce8a-46ba-8e34-3deb7681417d/32281eb8-e0dc-49cc-8cce-ac16e2ab6c2a"
-      (reference "S3") (unit 1) (value "LOAD NEUT") (footprint "")
+      (reference "S3") (unit 1) (value "LOAD NEUT") (footprint "TestPoint:TestPoint_Plated_Hole_D3.0mm")
     )
     (path "/f969f80d-ce8a-46ba-8e34-3deb7681417d/0e69b6c1-d48e-45e4-9d03-50ccf452125c"
-      (reference "S4") (unit 1) (value "INPUT NEUT") (footprint "")
+      (reference "S4") (unit 1) (value "INPUT NEUT") (footprint "TestPoint:TestPoint_Plated_Hole_D3.0mm")
     )
     (path "/5734c599-c465-44c2-80dc-aee5a5f975ea/c0fe23ca-0af3-4628-a01e-d38fc3657580"
       (reference "U1") (unit 1) (value "LS05-13B05R3") (footprint "JEDD-footprints:CONV_LS05-13B05R3")

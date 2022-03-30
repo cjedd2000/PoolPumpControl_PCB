@@ -28,3 +28,7 @@ fp-info-cache
 *auto_saved_files*
 *-backups
 *.kicad_prl
+
+#LT Spice Simulations
+*.log
+*.raw
