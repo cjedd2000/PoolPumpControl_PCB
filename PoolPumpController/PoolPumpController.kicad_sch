@@ -186,7 +186,7 @@
       (reference "J4") (unit 1) (value "AMBIENT TEMPERATURE") (footprint "")
     )
     (path "/e419d764-6450-4a19-bbc7-3a8af12017ac/d39d9ad3-6870-48c8-88bf-774d92975ce9"
-      (reference "J5") (unit 1) (value "FLOW DETECT") (footprint "")
+      (reference "J5") (unit 1) (value "FLOW DETECT") (footprint "JEDD-footprints:RJ12_Adam_Tech_MTJ-662X2")
     )
     (path "/5734c599-c465-44c2-80dc-aee5a5f975ea/1c58c1e8-9342-4a42-a0c4-6892f2aa1ed0"
       (reference "L1") (unit 1) (value "4.7mH") (footprint "Inductor_THT:L_Radial_D8.7mm_P5.00mm_Fastron_07HCP")
@@ -285,7 +285,7 @@
       (reference "U1") (unit 1) (value "LS05-13B05R3") (footprint "JEDD-footprints:CONV_LS05-13B05R3")
     )
     (path "/e419d764-6450-4a19-bbc7-3a8af12017ac/8404c8ed-cd6d-4798-af57-69617132819b"
-      (reference "U2") (unit 1) (value "DOIT_ESP32_DEVKIT1_LUA_NODE32") (footprint "")
+      (reference "U2") (unit 1) (value "DOIT_ESP32_DEVKIT1_LUA_NODE32") (footprint "JEDD-footprints:DOIT_ESP32_DEVKIT1_LUA_NODE32")
     )
     (path "/f969f80d-ce8a-46ba-8e34-3deb7681417d/e5ca1dc5-858e-4a7f-a139-32454a87a925"
       (reference "U3") (unit 1) (value "MOC3021S") (footprint "Package_DIP:SMDIP-6_W9.53mm")
